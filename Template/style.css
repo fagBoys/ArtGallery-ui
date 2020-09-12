@@ -1,0 +1,44 @@
+body
+{
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-style
+{
+  width: 300px;
+  height: 100vh;
+  background-color: #ff0036;
+  float: left;
+
+}
+
+.middlerow-style
+{
+  float: left;
+  padding:  1vh;
+  background-color: #ebebeb;
+}
+
+.middlerow-top
+{
+  height: 20vh;
+  width: 100vh;
+  background-color: #ebebeb;
+}
+
+.middlerow-bottom
+{
+  margin-top: 1vh;
+  height: 77vh;
+  width: 100vh;
+  background-color: #ebebeb;
+}
+
+.rightbar-style
+{
+  width: 300px;
+  height: 100vh;
+  background-color: #ebebeb;
+  float: right;
+}
