@@ -49,6 +49,28 @@ body.body-style
   float: right;
 }
 
+.rightbar-topbox
+{
+  width: 99%;
+  height: 48.5vh;
+  margin-top: 1vh;
+  margin-bottom: 0.5vh;
+  background-color: #e2dede;
+  padding: 2vh;
+
+}
+
+.rightbar-bottombox
+{
+  width: 99%;
+  height: 48.5vh;
+  margin-top: 0.5vh;
+  margin-bottom: 1vh;
+  background-color: #e2dede;
+  padding: 2vh;
+
+}
+
 .ProfilePic-style
 {
   margin: auto;
